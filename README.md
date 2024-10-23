@@ -1,4 +1,10 @@
+# I'm David Peters
+I'm currently a Computer Science undergraduate and research assistant at the University of Lethbridge 
+
+## 🚀 Research work on Optimal Power Flow optimization
+
 <!-- General Github stats-->
+## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjpeters&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjpeters&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -6,7 +12,7 @@
 <!-- GitHub streak stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidjpeters&show_icons=true&theme=dark)](https://git.io/streak-stats)
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> 
+## 🛠️ Languages and Tools:
 <a href="https://cplusplus.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
 <a href="https://julialang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a> 
 <a href="https://jump.dev" target="_blank"> <img src="https://jump.dev/JuMP.jl/stable/assets/logo-with-text.svg" alt="JuMP" width="40" height="40"/> </a> 
