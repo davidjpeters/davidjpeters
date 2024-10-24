@@ -7,7 +7,7 @@ I'm currently a Computer Science undergraduate and research assistant at the Uni
 ## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjpeters&show_icons=true&theme=dark)](https://github.com/davidjpeters/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjpeters&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)](https://github.com/davidjpeters/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjpeters&show_icons=true&theme=dark)](https://github.com/davidjpeters/github-readme-stats)
 
 <!-- GitHub streak stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidjpeters&show_icons=true&theme=dark)](https://git.io/streak-stats)
