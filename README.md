@@ -1,7 +1,11 @@
 # I'm David Peters
-I'm currently a Computer Science undergraduate and research assistant at the University of Lethbridge 
+I'm currently a Computer Science undergraduate and research assistant at the University of Lethbridge
 
 ## 🚀 Research work on Optimal Power Flow optimization
+Exploring decomposition techniques on large, non-deterministic optimization problems
+
+
+Repository can be found [here](https://github.com/Lethbridge-Optimization-Research-Group)
 
 <!-- General Github stats-->
 ## 📊 GitHub Stats
@@ -17,7 +21,8 @@ I'm currently a Computer Science undergraduate and research assistant at the Uni
 <a href="https://julialang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a> 
 <a href="https://jump.dev" target="_blank"> <img src="https://jump.dev/JuMP.jl/stable/assets/logo-with-text.svg" alt="JuMP" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://ubuntu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a> 
+<a href="https://ubuntu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://archlinux.org" target="_blank"> <img src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg" alt="arch" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
