@@ -1,11 +1,13 @@
-# I'm David Peters
-I'm currently a Computer Science undergraduate and research assistant at the University of Lethbridge
+### David Peters
+Computer Science undergraduate and research assistant at the University of Lethbridge
 
-## 🚀 Research work on Optimal Power Flow optimization
-Exploring decomposition techniques on large, non-deterministic optimization problems
+Student Bioinformatics Programmer at Agriculture and Agri-Food Canada (Jan-Apr 2026)
+
+#### Research work on Optimal Power Flow optimization
+Exploring local search decomposition techniques on large, non-deterministic optimization problems
 
 
-Repository can be found [here](https://github.com/Lethbridge-Optimization-Research-Group)
+Repository can be found [here](https://github.com/Lethbridge-Optimization-Research-Group/power)
 
 <!-- General Github stats-->
 ## 📊 GitHub Stats
